@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Omnical</string>
+    <string name="language">Language</string>
+    <string name="price">Precio ($)</string>
+    <string name="price_with_tax_handling">PRECIO CON IVA Y MANEJO</string>
+    <string name="myDiscount">MI DESCUENTO(%)</string>
+    <string name="myPrice">MI PRECIO</string>
+    <string name="publicPrice">PRECIO AL PUBLICO ($)</string>
+    <string name="myProfit">MI GANANCIA</string>
+    <string name="calculate">calcular</string>
+    <string name="reset">Reiniciar</string>
+
+    <!--<string-array name="language_array">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>-->
+</resources>

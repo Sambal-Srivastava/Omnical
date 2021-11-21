@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Omnical</string>
+    <string name="language">Language</string>
+    <string name="price">Price ($)</string>
+    <string name="price_with_tax_handling"><![CDATA[Price W/ Tax & Handling]]></string>
+    <string name="myDiscount">My Discount(%)</string>
+    <string name="myPrice">My Price</string>
+    <string name="publicPrice">Public Price ($)</string>
+    <string name="myProfit">My Profit</string>
+    <string name="calculate">calculate</string>
+    <string name="reset">reset</string>
+
+    <!--  <string-array name="language_array">
+          <item>English</item>
+          <item>Spanish</item>
+      </string-array>-->
+</resources>
